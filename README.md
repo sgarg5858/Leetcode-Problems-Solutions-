@@ -10,6 +10,8 @@ Question Link => Solution Link.
 
 3. (5) https://leetcode.com/problems/longest-palindromic-substring/description/ => https://leetcode.com/problems/longest-palindromic-substring/discuss/329023/From-Brute-Force-Solution-to-Optimized-with-explanation-in-java
 
-4.(9) https://leetcode.com/problems/palindrome-number/description/ => https://leetcode.com/problems/palindrome-number/discuss/431332/Easy-Solution-in-java!!
+4. (9) https://leetcode.com/problems/palindrome-number/description/ => https://leetcode.com/problems/palindrome-number/discuss/431332/Easy-Solution-in-java!!
 
-5.(11) https://leetcode.com/problems/container-with-most-water/description/ => https://leetcode.com/problems/container-with-most-water/discuss/439463/From-Brute-Force-to-Optimized-Solution..
+5. (11) https://leetcode.com/problems/container-with-most-water/description/ => https://leetcode.com/problems/container-with-most-water/discuss/439463/From-Brute-Force-to-Optimized-Solution..
+
+6. (14) https://leetcode.com/problems/longest-common-prefix/description/ => https://leetcode.com/problems/longest-common-prefix/discuss/796659/Easy-Solution-in-Java
