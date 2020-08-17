@@ -15,3 +15,5 @@ Question Link => Solution Link.
 5. (11) https://leetcode.com/problems/container-with-most-water/description/ => https://leetcode.com/problems/container-with-most-water/discuss/439463/From-Brute-Force-to-Optimized-Solution..
 
 6. (14) https://leetcode.com/problems/longest-common-prefix/description/ => https://leetcode.com/problems/longest-common-prefix/discuss/796659/Easy-Solution-in-Java
+
+7. (15) https://leetcode.com/problems/3sum/description/ => https://leetcode.com/problems/3sum/discuss/431361/EASy-Solution-using-2-pointers!
