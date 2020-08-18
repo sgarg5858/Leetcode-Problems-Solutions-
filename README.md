@@ -18,4 +18,6 @@ Question Link => Solution Link.
 
 7. (15) https://leetcode.com/problems/3sum/description/ => https://leetcode.com/problems/3sum/discuss/431361/EASy-Solution-using-2-pointers!
 
-8 (20) https://leetcode.com/problems/valid-parentheses/description/ => https://leetcode.com/problems/valid-parentheses/discuss/798973/Easy-solution-using-stack-in-java-with-explanation!
+8. (20) https://leetcode.com/problems/valid-parentheses/description/ => https://leetcode.com/problems/valid-parentheses/discuss/798973/Easy-solution-using-stack-in-java-with-explanation!
+
+9. (31) https://leetcode.com/problems/next-permutation/description/ => https://leetcode.com/problems/next-permutation/discuss/415973/Easy-Solution-in-Java-with-explanation
