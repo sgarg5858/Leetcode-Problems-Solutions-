@@ -17,3 +17,5 @@ Question Link => Solution Link.
 6. (14) https://leetcode.com/problems/longest-common-prefix/description/ => https://leetcode.com/problems/longest-common-prefix/discuss/796659/Easy-Solution-in-Java
 
 7. (15) https://leetcode.com/problems/3sum/description/ => https://leetcode.com/problems/3sum/discuss/431361/EASy-Solution-using-2-pointers!
+
+8 (20) https://leetcode.com/problems/valid-parentheses/description/ => https://leetcode.com/problems/valid-parentheses/discuss/798973/Easy-solution-using-stack-in-java-with-explanation!
