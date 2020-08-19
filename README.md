@@ -21,3 +21,5 @@ Question Link => Solution Link.
 8. (20) https://leetcode.com/problems/valid-parentheses/description/ => https://leetcode.com/problems/valid-parentheses/discuss/798973/Easy-solution-using-stack-in-java-with-explanation!
 
 9. (31) https://leetcode.com/problems/next-permutation/description/ => https://leetcode.com/problems/next-permutation/discuss/415973/Easy-Solution-in-Java-with-explanation
+
+10. (32) https://leetcode.com/problems/longest-valid-parentheses/description/ => https://leetcode.com/problems/longest-valid-parentheses/discuss/423824/Easy-Solution-Using-Stack-In-O(n)-in-Java!
