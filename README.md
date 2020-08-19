@@ -23,3 +23,5 @@ Question Link => Solution Link.
 9. (31) https://leetcode.com/problems/next-permutation/description/ => https://leetcode.com/problems/next-permutation/discuss/415973/Easy-Solution-in-Java-with-explanation
 
 10. (32) https://leetcode.com/problems/longest-valid-parentheses/description/ => https://leetcode.com/problems/longest-valid-parentheses/discuss/423824/Easy-Solution-Using-Stack-In-O(n)-in-Java!
+
+11. (42) https://leetcode.com/problems/trapping-rain-water/description/ => https://leetcode.com/problems/trapping-rain-water/discuss/439467/Easy-Solution-Using-2-Pointers-with-Intuition-In-Java.
