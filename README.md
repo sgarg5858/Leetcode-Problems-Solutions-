@@ -29,3 +29,5 @@ Question Link => Solution Link.
 #Jump Game Series
 
 12. (55) https://leetcode.com/problems/jump-game/description/ => https://leetcode.com/problems/jump-game/discuss/800215/Easy-Solution-in-Java-O(n)-with-Explanation
+
+13. (45) https://leetcode.com/problems/jump-game-ii/description/ => https://leetcode.com/problems/jump-game-ii/discuss/442298/Simple-O(n)-Solution-in-Java
