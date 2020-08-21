@@ -33,3 +33,6 @@ Question Link => Solution Link.
 13. (45) https://leetcode.com/problems/jump-game-ii/description/ => https://leetcode.com/problems/jump-game-ii/discuss/442298/Simple-O(n)-Solution-in-Java
 
 14. (1306) https://leetcode.com/problems/jump-game-iii/description/ => https://leetcode.com/problems/jump-game-iii/discuss/464101/Simplest-Solution-Using-BFS-in-Java!
+
+15. (1345) https://leetcode.com/problems/jump-game-iv/description/ => https://leetcode.com/problems/jump-game-iv/discuss/503915/Easy-BFS-Approach-IN-Java
+
