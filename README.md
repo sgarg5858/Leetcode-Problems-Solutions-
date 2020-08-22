@@ -40,4 +40,6 @@ Question Link => Solution Link.
 
 #Backtracking Problems:
 
-https://leetcode.com/problems/combination-sum/discuss/ => https://leetcode.com/problems/combination-sum/discuss/443190/Simplest-using-backtracking-in-C++Java!
+17. https://leetcode.com/problems/combination-sum/description/ => https://leetcode.com/problems/combination-sum/discuss/443190/Simplest-using-backtracking-in-C++Java!
+
+18. https://leetcode.com/problems/combination-sum-ii/description/ => https://leetcode.com/problems/combination-sum-ii/discuss/443193/Easy-Solution-In-C++Java
