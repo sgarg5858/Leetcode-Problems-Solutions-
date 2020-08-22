@@ -47,3 +47,5 @@ Question Link => Solution Link.
 19. https://leetcode.com/problems/combination-sum-iii/description/ => https://leetcode.com/problems/combination-sum-iii/discuss/805302/Easy-Solution-in-Java
 
 20. https://leetcode.com/problems/generate-parentheses/description/ => https://leetcode.com/problems/generate-parentheses/discuss/466148/Easy-Solution-In-Java-Using-Backtracking.
+
+21. https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ => https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/465501/Simplest-Solution-In-Java-Using-BackTracking-and-BFS-Approaches!
