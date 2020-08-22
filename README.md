@@ -49,3 +49,5 @@ Question Link => Solution Link.
 20. https://leetcode.com/problems/generate-parentheses/description/ => https://leetcode.com/problems/generate-parentheses/discuss/466148/Easy-Solution-In-Java-Using-Backtracking.
 
 21. https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ => https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/465501/Simplest-Solution-In-Java-Using-BackTracking-and-BFS-Approaches!
+
+22. https://leetcode.com/problems/permutations/description/ => https://leetcode.com/problems/permutations/discuss/431430/Easy-Solution-in-C++Java-with-picture
