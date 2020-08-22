@@ -36,3 +36,5 @@ Question Link => Solution Link.
 
 15. (1345) https://leetcode.com/problems/jump-game-iv/description/ => https://leetcode.com/problems/jump-game-iv/discuss/503915/Easy-BFS-Approach-IN-Java
 
+16. https://leetcode.com/problems/jump-game-v/description/ => https://leetcode.com/problems/jump-game-v/discuss/497022/Easy-Solution-Using-Dp-IN-Java-Clearly-Explained!
+
