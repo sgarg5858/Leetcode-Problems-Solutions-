@@ -45,3 +45,5 @@ Question Link => Solution Link.
 18. https://leetcode.com/problems/combination-sum-ii/description/ => https://leetcode.com/problems/combination-sum-ii/discuss/443193/Easy-Solution-In-C++Java
 
 19. https://leetcode.com/problems/combination-sum-iii/description/ => https://leetcode.com/problems/combination-sum-iii/discuss/805302/Easy-Solution-in-Java
+
+20. https://leetcode.com/problems/generate-parentheses/description/ => https://leetcode.com/problems/generate-parentheses/discuss/466148/Easy-Solution-In-Java-Using-Backtracking.
