@@ -51,3 +51,5 @@ Question Link => Solution Link.
 21. https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/ => https://leetcode.com/problems/letter-combinations-of-a-phone-number/discuss/465501/Simplest-Solution-In-Java-Using-BackTracking-and-BFS-Approaches!
 
 22. https://leetcode.com/problems/permutations/description/ => https://leetcode.com/problems/permutations/discuss/431430/Easy-Solution-in-C++Java-with-picture
+
+23. https://leetcode.com/problems/subsets-ii/description/ => https://leetcode.com/problems/subsets-ii/discuss/336124/Easy-Solution-In-Java-Using-Backtracking
