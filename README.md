@@ -53,3 +53,5 @@ Question Link => Solution Link.
 22. https://leetcode.com/problems/permutations/description/ => https://leetcode.com/problems/permutations/discuss/431430/Easy-Solution-in-C++Java-with-picture
 
 23. https://leetcode.com/problems/subsets-ii/description/ => https://leetcode.com/problems/subsets-ii/discuss/336124/Easy-Solution-In-Java-Using-Backtracking
+
+24. https://leetcode.com/problems/path-with-maximum-gold/description/ => https://leetcode.com/problems/path-with-maximum-gold/discuss/807337/Easy-Solution-In-Java-using-Backtracking...
